@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LearnFirebase</string>
+    <string name="click_to_change">Click to Change</string>
+    <string name="email_id">Email Id</string>
+    <string name="name">Name</string>
+</resources>
